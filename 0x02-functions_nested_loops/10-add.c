@@ -6,7 +6,7 @@ include "main.h"
  * @a: number one
  * @b: number two
  *
- * Return: add of number one and number two
+ * Return: addition of number one and number two
  */
 int add(int a, int b)
 {
